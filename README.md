@@ -1,4 +1,4 @@
 # NLW
 
-Site desenvolvido no NWL SPORTS, feito pelo Rocktseat.
+Site desenvolvido no NWL SPORTS, projeto desenvolvido pelo Rocktseat.
 
